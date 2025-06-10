@@ -1,7 +1,5 @@
 # CaptureCast
 
-![CaptureCast Logo](https://placeholder.svg?height=100&width=100)
-
 CaptureCast is a professional screen and webcam recording studio built with modern web technologies. Create high-quality recordings for tutorials, presentations, and demos with ease.
 
 ## 🚀 Features
