@@ -30,33 +30,6 @@ CaptureCast is a professional screen and webcam recording studio built with mode
   - Custom naming for recordings
   - File size and duration information
 
-## 📸 Screenshots
-
-### Main Recording Interface
-
-![CaptureCast Main Interface](https://placeholder.svg?height=600&width=1200)
-_Clean, modern interface with recording preview and controls_
-
-### Recording in Progress
-
-![Recording in Progress](https://placeholder.svg?height=600&width=1200)
-_Real-time recording with timer and control buttons_
-
-### Settings Panel
-
-![Settings Panel](https://placeholder.svg?height=600&width=1200)
-_Comprehensive recording settings and quality options_
-
-### Recording Gallery
-
-![Recording Gallery](https://placeholder.svg?height=600&width=1200)
-_Organized gallery view with download and management options_
-
-### Dark Mode
-
-![Dark Mode Interface](https://placeholder.svg?height=600&width=1200)
-_Beautiful dark mode support for comfortable usage_
-
 ## 🛠️ Tech Stack
 
 - **Framework**: [Next.js 14](https://nextjs.org/) - React framework with App Router
